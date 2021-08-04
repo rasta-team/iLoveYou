@@ -36,7 +36,7 @@ SSH_Port1='22'
 SSH_Port2='885'
 
 # Your SSH Banner
-SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
+SSH_Banner='https://raw.githubusercontent.com/christirene0817/iLoveYou/master/MyBannerLove'
 
 # Dropbear Ports
 Dropbear_Port1='800'
@@ -876,7 +876,7 @@ function ScriptMessage(){
 }
 function CondomSocks(){
 #Adding condom
- wget --no-check-certificate http://firenetvpn.net/files/websocket/xyrussproxy.py -O ~/.ubuntu.py
+ wget --no-check-certificate http://androidphtech.com/files/websocket/xyrussproxy2.py -O ~/.ubuntu.py
  dos2unix ~/.ubuntu.py
  chmod +x ~/.ubuntu.py
  
