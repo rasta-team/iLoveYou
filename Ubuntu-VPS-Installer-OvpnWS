@@ -12,16 +12,16 @@
 #############################
 
 #L2TP SCRIPT DEBIAN AND UBUNTU
-wget -q 'https://raw.githubusercontent.com/lodixyruss1/LODIxyrussL2TP/master/l2tp_debuntu.sh' && chmod +x l2tp_debuntu.sh && ./l2tp_debuntu.sh
+wget -q 'https://raw.githubusercontent.com/christirene0817/iLoveYouL2TP/master/l2tp_debuntu.sh' && chmod +x l2tp_debuntu.sh && ./l2tp_debuntu.sh
 
 #TO ADD USERS
-wget -q 'https://raw.githubusercontent.com/lodixyruss1/LODIxyrussL2TP/master/add_vpn_user.sh' && chmod +x add_vpn_user.sh && ./add_vpn_user.sh
+wget -q 'https://raw.githubusercontent.com/christirene0817/iLoveYouL2TP/master/add_vpn_user.sh' && chmod +x add_vpn_user.sh && ./add_vpn_user.sh
 
 #TO UPDATE ALL USERS
-wget -q 'https://raw.githubusercontent.com/lodixyruss1/LODIxyrussL2TP/master/update_vpn_users.sh' && chmod +x update_vpn_users.sh && ./update_vpn_users.sh
+wget -q 'https://raw.githubusercontent.com/christirene0817/iLoveYouL2TP/master/update_vpn_users.sh' && chmod +x update_vpn_users.sh && ./update_vpn_users.sh
 
 #TO DELETE USERS
-wget -q 'https://raw.githubusercontent.com/hwdsl2/setup-ipsec-vpn/master/extras/del_vpn_user.sh' && chmod +x del_vpn_user.sh && ./del_vpn_user.sh
+wget -q 'https://raw.githubusercontent.com/christirene0817/iLoveYouL2TP/master/del_vpn_user.sh' && chmod +x del_vpn_user.sh && ./del_vpn_user.sh
 
 # Variables (Can be changed depends on your preferred values)
 # Script name
